@@ -41,7 +41,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/introduction/</guid>
-      <description> QMC: Quantum Materials Computation #  This an open-source codes for Quantum Espresso related calculations, including file pre-procesing and post-processing. #  Capacity #    file processing, structure transform (VASP $\Leftrightarrow$ QE). plotting toolkits (electronic bands, phonon bands, wannier90 bands, epw plotting tools) interface with other codes (ShengBTE, Perturbo. etc)   </description>
+      <description> QMC: Quantum Materials Computation #  This an open-source codes for Quantum Espresso related calculations, including file pre-procesing and post-processing. #  Capacity #    file processing, structure transform (VASP $\Leftrightarrow$ QE). plotting toolkits (electronic bands, phonon bands, wannier90 bands, epw plotting tools) interface with other codes (ShengBTE, Perturbo. etc)   second </description>
     </item>
     
     <item>
