@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Brief Introduction of QMC</title>
+      <link>/docs/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/introduction/</guid>
+      <description>Tookits for Quantum Espresso related calculations #  </description>
+    </item>
+    
+    <item>
       <title>Document</title>
       <link>/docs/document/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -31,15 +40,6 @@
       
       <guid>/docs/install/</guid>
       <description>Install QMC #  </description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>/docs/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/introduction/</guid>
-      <description>Tookits for Quantum Espresso related calculations #  </description>
     </item>
     
   </channel>
