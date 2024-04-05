@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Apr 2024 18:07:11 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Brief Introduction of QMC</title>
-      <link>/docs/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/introduction/</guid>
-      <description> QMC: Quantum Materials Computation #  This an open-source codes for Quantum Espresso related calculations, including file pre-procesing and post-processing. #  capacity #    file processing, structure transform (VASP \Leftrightarrow QE). plotting toolkits (electronic bands, phonon bands, wannier90 bands, epw plotting tools) interface with other codes (ShengBTE, Perturbo. etc)   </description>
-    </item>
-    
-    <item>
       <title>Document</title>
       <link>/docs/document/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -42,6 +33,15 @@
       <guid>/docs/install/</guid>
       <description>Install QMC #   Install required software for QE calculations #  Quantum espresso, EPW, wannier90 and python3
  install Quantum espresso insure you have required compliers for complifing Quanutm espresso  ./configure make pw pp ph install wannier90  make w90 install EPW  make epw install python3 (need numpy, matplotlib)  install Anaconda3 or miniconda3 pip install numpy matplotlib  Install softwares for advanced calculations. ie. thermal related calculations.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/docs/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/introduction/</guid>
+      <description> QMC: Quantum Materials Computation #  This an open-source codes for Quantum Espresso related calculations, including file pre-procesing and post-processing. #  capacity #    file processing, structure transform (VASP \Leftrightarrow QE). plotting toolkits (electronic bands, phonon bands, wannier90 bands, epw plotting tools) interface with other codes (ShengBTE, Perturbo. etc)   </description>
     </item>
     
     <item>
