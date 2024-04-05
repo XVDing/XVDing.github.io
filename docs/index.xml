@@ -39,8 +39,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/install/</guid>
-      <description>Install QMC #   Required soft #  Quantum espresso, EPW, wannier90 and python3
- install Quantum espresso  insure you have required compliers for Quanutm espresso ./configure make pw pp ph install wannier90  make w90 install EPW  make epw install python3 (need numpy, matplotlib)  install Anaconda3 or miniconda3 pip install numpy matplotlib  Advanced required soft #  thirdorder.py, fourthorder.py, ShengBTE and Perturbo, you can install them from offical websites</description>
+      <description>Install QMC #   Install required software for QE calculations #  Quantum espresso, EPW, wannier90 and python3
+ install Quantum espresso  insure you have required compliers for Quanutm espresso ./configure make pw pp ph install wannier90  make w90 install EPW  make epw install python3 (need numpy, matplotlib)  install Anaconda3 or miniconda3 pip install numpy matplotlib  Install softwares for advanced calculations. ie. thermal related calculations.</description>
     </item>
     
   </channel>
